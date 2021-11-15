@@ -1,6 +1,6 @@
 import React from 'react';
 
-class PageManager extends React.Component {
+class Swap extends React.Component {
     render() { 
         return (
             <div></div>
@@ -8,4 +8,4 @@ class PageManager extends React.Component {
     }
 }
  
-export default PageManager;
+export default Swap;
